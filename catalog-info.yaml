@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-component-techdocs-v2.0
   tags:
-    - Angular
+    - angular
     - javascript
   devxstate: Approved
   avgRating: 4.4
