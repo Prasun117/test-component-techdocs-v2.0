@@ -1,7 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: CBRE-MSS-DotNET-Logger
+  name: test-component-techdocs-v2.0
+
   devxstate: Approved
   avgRating: 4.4
   
