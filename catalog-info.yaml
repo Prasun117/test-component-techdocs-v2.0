@@ -2,7 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-component-techdocs-v2.0
-
+  tags:
+    - Angular
+    - javascript
   devxstate: Approved
   avgRating: 4.4
   
@@ -31,9 +33,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
     
-  tags:
-    - Angular
-    - javascript
+  
   links:
     - url: https://example.com/user
       title: Examples Users
